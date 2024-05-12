@@ -1,0 +1,17 @@
+#ignore all pytest cache
+*.pytest_cache
+__pycache__/
+__pycache__
+.cache
+# Ignore .idea files
+.idea/
+.idea
+#Ignore all enve
+.env
+.venv
+env/
+venv/
+#Ignore pyc
+*.pyc
+/shelf/
+/workspace.xml
